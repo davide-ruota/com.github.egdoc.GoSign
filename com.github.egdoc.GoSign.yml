@@ -94,8 +94,8 @@ modules:
         filename: Gosign-Desktop-installer-linux.deb
         only-arches: [x86_64]
         url: https://rinnovofirma.infocert.it/gosign/download/linux/latest
-        sha256: 44d4f731c84c3195e34eb3ce4cc6fb1ee8666cbc1de6bc87e764a07aaf7de458
-        size: 81906900
+        sha256: 6c0a10fe92d10b16258333ccfa684b07ee677c81530474ccc67a3e06744589cb
+        size: 102167384
         x-checker-data:
           type: debian-repo
           package-name: Gosign-Desktop-installer-linux
