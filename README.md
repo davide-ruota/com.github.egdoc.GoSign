@@ -10,7 +10,7 @@ is only distributed as a [deb](https://rinnovofirma.infocert.it/gosign/download/
 Clone this repository:
 
 ```bash
-git clone --resursive https://github.com/egdoc/com.github.egdoc.GoSign
+git clone --recursive https://github.com/egdoc/com.github.egdoc.GoSign
 ```
 
 As a prerequisite to build this flathub image you must install `flatpak-builder`.
